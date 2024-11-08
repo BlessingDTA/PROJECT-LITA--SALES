@@ -29,4 +29,11 @@ The project was designed to address the following analysis goal:
 + SQL - Structured Query Language. To write queries for your cleaned data from Excel
 + Power BI desktop - to create dashboard that visualizes the insights from Excel and SQL
 
-## VISUAL ANALYSIS 
+# VISUAL ANALYSIS 
+## Sales Project Dashboard
+
+Here is the dashboard for my Capstone Sales Project:
+
+![Dashboard for Capstone Sales Project](https://github.com/BlessingDTA/PROJECT-LITA--SALES/raw/18ab29c42309e6d96f2fad5d22fecc6c913c104e/DASHBOARD%20FOR%20%20CAPSTONE%20SALES%20PROJECT.PNG)
+
+Here is my Pivot Table
