@@ -38,4 +38,11 @@ Here is the dashboard for my Capstone Sales Project:
 
 Here is my Pivot Table
 
-![Capstone sales summary](https://github.com/user-attachments/assets/660951e8-323e-4c0a-80b1-1fab4ebf3831)
+![Capstone sales summary](https://github.com/user-attachments/assets/660951e8-323e-4c0a-80b1-1fab4ebf3831) 
+
+# INSIGHTS ON TOTAL SALES <REVENUE IN THE DIFFERENT REGION>
++ SOUTH REGION: The South leads in total sales and generates more revenue with a total of 4,675,000 having sold about 122,500 products.
++ EAST REGION: The East retail stores also had good sales and generated a total revenue of 2,450,000 having sold about 102,500 products.
++ NORTH REGION: The Northern store came third as it made a total revenue of 1,950,000 having sold about 62,500 products.
++ WEST REGION: The West had the least sales record of 1,512,500 as total revenue with 57,500 as total quantities of product sold.
+
