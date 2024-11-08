@@ -46,3 +46,14 @@ Here is my Pivot Table
 + NORTH REGION: The Northern store came third as it made a total revenue of 1,950,000 having sold about 62,500 products.
 + WEST REGION: The West had the least sales record of 1,512,500 as total revenue with 57,500 as total quantities of product sold.
 
+![17311014675231842498615340736961](https://github.com/user-attachments/assets/02bdfdb7-914b-4fed-9e98-ed8718078e0f)
+
+This shows the total sales of each product in each region.
+* There are products that are best selling in one region and completely has no sales in another region. For example, Hat is the bestselling product in the East,  West and North and it was even the most sold item generally but it recorded no sales in the South, despite the fact that The South region topped on the sales chart.
+# CONCLUSION 
+The retail shops in the North and West Region needs more sales force and attention on:
+* accelerating revenue through intensive marketing strategies.
+* studying of market trend within the region to adequately determine the best selling product in that region so as to stock more.
+* increase sales of low selling items
+* boost sales in low month like May 2024
+  
